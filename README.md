@@ -4,7 +4,7 @@ An unofficial, free English and Latin American Spanish fan translation of **Supe
 
 The translation is distributed through an **offline HTML patcher**. The game is not included: you must provide your own original files from the supported Japanese edition.
 
-**Build:** 0.7.0 V060  
+**Build:** 0.7.1 V063  
 **Supported edition:** Japanese Special Sound Edition — **PCSG00440**  
 **Translation languages:** English and Latin American Spanish  
 **Patcher interface languages:** English and Spanish, independent of the selected game language.
@@ -24,14 +24,12 @@ The translation is distributed through an **offline HTML patcher**. The game is 
 **The translation remains under review.** Completing the extracted story and biographies does not mean every interface, image, or variation has received final verification.
 
 
-V058 adds chapter titles in both languages, completes all 61 hero quests in Spanish, and makes attack names consistent between text and graphics. It also translates music-list labels and quest-reward wording. Organization proper names are retained.
-
-V059 adds 59 map-notification and upgrade-badge labels in both languages. V060 fixes clipping by fitting text within the actual regions sampled by the animations: 30 English and 32 Spanish textures, including the Spanish deployment banner. Chapter titles were also checked. Original texture dimensions and animations are preserved. The new adjustments still require visual confirmation on a real PS Vita.
+V063 completes recruitment, item-name, and special-move/skill acquisition graphics in both languages. The startup notice uses the Workshop artwork matching the selected game language. It includes previous fixes, chapter titles, all61 hero quests, and consistent attack names. The new changes still require visual confirmation on a real PS Vita.
 
 ## Installation
 
 1. Back up your original game files and save data.
-2. Extract the patcher package and open **SHG_VITA_PARCHEADOR_PUBLICO_EN_ES_V060.html** in an up-to-date compatible browser on a computer or Android device.
+2. Extract the patcher package and open **SHG_VITA_PARCHEADOR_PUBLICO_EN_ES_V063.html** in an up-to-date compatible browser on a computer or Android device.
 3. Obtain **fixed.cpk and eboot.bin from the Japanese base game without updates**. In VitaShell, open the base-game folder using **Open decrypted**, then copy both files from that view. Do not use files from the update folder or previously patched files. Select those two copies in the patcher.
 4. Choose **English** or **Español latinoamericano** under **Translation language**. **Interface language** only changes the patcher's own text.
 5. Select **Create rePatch** and wait for the ZIP to be prepared. Keep the browser open and allow enough free storage for the original files, the ZIP, and the extracted output.

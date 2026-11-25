@@ -4,7 +4,7 @@ Traducción no oficial y gratuita de **Super Hero Generation: Special Sound Edit
 
 Se distribuye mediante un **parcheador HTML sin conexión**. No incluye el juego: necesitas tus propios archivos originales de la edición japonesa compatible.
 
-**Versión:** V060  
+**Versión:** 0.7.1 V063  
 **Edición compatible:** Special Sound Edition japonesa — **PCSG00440**  
 **Idiomas de la traducción:** inglés y español latinoamericano  
 **Idiomas de la interfaz del parcheador:** español e inglés, independientes del idioma elegido para el juego.
@@ -24,14 +24,12 @@ Se distribuye mediante un **parcheador HTML sin conexión**. No incluye el juego
 **La traducción sigue en revisión.** Completar la historia extraída y las biografías no significa que todas las interfaces, imágenes o variantes hayan recibido una comprobación final.
 
 
-V058 añade los títulos de capítulo en ambos idiomas, completa los 61 retos en español y unifica los nombres de los ataques entre texto e imágenes. También traduce los rótulos musicales y los premios de los retos. Se conservan los nombres propios de organizaciones.
-
-V059 añade 59 rótulos de avisos del mapa y distintivos de mejora en ambos idiomas. V060 corrige los recortes detectados al ajustarlos a las áreas reales que muestran las animaciones: 30 texturas en inglés y 32 en español, incluido el cartel español de despliegue. También se comprobaron los títulos de capítulo. Se conservan las dimensiones y las animaciones originales. Los ajustes nuevos requieren confirmación visual en una PS Vita real.
+V063 completa los rótulos gráficos de reclutamiento, objetos y adquisición de ataques y habilidades en ambos idiomas. La advertencia de inicio utiliza las imágenes de la Workshop en el idioma seleccionado para el juego. Incluye los arreglos anteriores, los títulos de capítulo, los 61 retos y los nombres de ataques unificados. Los cambios nuevos requieren confirmación visual en una PS Vita real.
 
 ## Instalación
 
 1. Respalda tus archivos originales y tu partida.
-2. Extrae el paquete del parcheador y abre **SHG_VITA_PARCHEADOR_PUBLICO_EN_ES_V060.html** en un navegador actualizado y compatible, en una computadora o dispositivo Android.
+2. Extrae el paquete del parcheador y abre **SHG_VITA_PARCHEADOR_PUBLICO_EN_ES_V063.html** en un navegador actualizado y compatible, en una computadora o dispositivo Android.
 3. Obtén **fixed.cpk y eboot.bin del juego base japonés, sin update**. En VitaShell, abre la carpeta del juego base con **Open decrypted** y copia ambos archivos desde esa vista. No uses archivos de la carpeta del update ni archivos ya parcheados. Selecciona esas dos copias en el parcheador.
 4. Elige **English** o **Español latinoamericano** en **Idioma de la traducción**. El selector **Idioma de interfaz** solo cambia los textos del parcheador.
 5. Pulsa **Crear rePatch** y espera a que se prepare el ZIP. Mantén abierto el navegador y dispone de espacio libre para el original, el ZIP y los archivos extraídos.
